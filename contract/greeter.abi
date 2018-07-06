@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[],"name":"greet","outputs":[{"name":"returnedValue","type":"string"}],"payable":false,"stateMutability":"pure","type":"function"}]
